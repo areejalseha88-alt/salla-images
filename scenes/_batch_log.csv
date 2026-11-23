@@ -1,0 +1,4 @@
+sku,status,note
+10100900,fail,Claid 403: b'error code: 1010\n'
+10102016,fail,Claid 403: b'error code: 1010\n'
+10101610,fail,Claid 403: b'error code: 1010\n'
